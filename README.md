@@ -1,7 +1,7 @@
 ### Oi, Eu sou Douglas Ferreira 👋
 
 
-⚙ - Hoje trabalho como Tecnico de CFTV <br>
+⚙ - Hoje trabalho como Analista de desenvolvimento de sistemas na INmetrics <br>
 🧠 - Estudo Analise e Desenvolvimento de sistemas - Faculdade FECAF
 
  <div>
