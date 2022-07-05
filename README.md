@@ -4,28 +4,6 @@
 ⚙ - Hoje trabalho como Analista de desenvolvimento de sistemas na INmetrics <br>
 🧠 - Estudo Analise e Desenvolvimento de sistemas - Faculdade FECAF
 
-Tenho conhecimento em algumas linguagens de programação como:
-- Java 
-- Swift
-- JavaScript 
-- PHP
-
-Trabalho com as seguintes ferramentas: 
-- Jyra 
--Cucumber
-- SpringBoot
--Postman
--Cypress
--Appium
--Selenium
--Robot-Framework
-- MySql
-
-Sobre testes :
-- DevOpsCulture
-- Testes unitários
-- Testes de API
-- Automação de testes
 
 Busco me aperfeiçoar cada vez mais e estou sempre buscando melhoria pessoal e profissional.
  <div>
