@@ -12,9 +12,16 @@ Busco me aperfeiçoar cada vez mais e estou sempre buscando melhoria pessoal e p
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1994Douglas-Ferreira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Douglas-Android" height="30" width="40" src="https://devicons.railway.app/i/android.svg">
+   <img align="center" alt="Douglas-Cucumber" height="30" width="40" src="https://devicons.railway.app/i/cucumber.svg">
+    <img align="center" alt="Douglas-Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
+     <img align="center" alt="Douglas-Java" height="30" width="40" src="https://devicons.railway.app/i/java.svg">
+      <img align="center" alt="Douglas-Js" height="30" width="40" src="https://devicons.railway.app/i/javascript.svg">
+       <img align="center" alt="Douglas-Kotlin" height="30" width="40" src="https://devicons.railway.app/i/kotlin.svg">
+        <img align="center" alt="Douglas-Postman" height="30" width="30" src="https://devicons.railway.app/i/postman.svg">
+         <img align="center" alt="Douglas-Selenium" height="30" width="40" src="https://devicons.railway.app/i/selenium.svg">
+          <img align="center" alt="Douglas-Spring" height="30" width="40" src="https://devicons.railway.app/i/spring.svg">
+       
 </div>
   
   ##
